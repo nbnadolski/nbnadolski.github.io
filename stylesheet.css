@@ -1,0 +1,36 @@
+* {
+    font-family: Arial, Verdana, sans-serif;
+    text-align: center;
+    background-color: #efefef;
+}
+
+body {
+    width: 960px;
+    margin: 0 auto;
+    border: groove;
+}
+
+nav {
+    padding: 10px;
+    margin: 10px;
+}
+
+li {
+    font-size: smaller;
+    display: inline;
+    padding: 5px;
+}
+
+section {
+    overflow: auto;
+    height: 100%;
+}
+
+main {
+    padding: 10px;
+    margin: 10px;
+}
+
+article {
+    margin: 5px;
+}
